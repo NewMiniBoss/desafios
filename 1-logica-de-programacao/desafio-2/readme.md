@@ -1,6 +1,5 @@
 ## Desafio - 2 🏁
-
-b) Escreva uma função que receba uma lista de números e retorne a soma dos números pares.
+Escreva uma função que receba uma lista de números e retorne a soma dos números pares.
 
 ## Instrução do desafio 📚
 - exite uma função, chamada: somando( lista )
