@@ -35,10 +35,7 @@
 ## Tecnolgias usadas
 
 - HTML
-- SCSS
-- CSS
 - Javascript
-- NPM
 - React
 - Node.js
 - Consumo de APIs
