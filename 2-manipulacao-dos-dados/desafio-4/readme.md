@@ -9,4 +9,5 @@ Escreva uma função que receba uma lista de objetos com propriedades "name" e "
 
 ## Exibindo o projeto 🎥
 
-- direcionar para pasta do projeto e escrever no terminal: ```node ../desafios/desafioFour/desafioFour.js`
+- direcionar para pasta do projeto e escrever no terminal: 
+`node ../desafios/desafioFour/desafioFour.js`

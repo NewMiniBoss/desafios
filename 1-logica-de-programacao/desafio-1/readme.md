@@ -15,4 +15,4 @@
 ## Exibindo o projeto 🎥
 
 - direcionar para pasta do projeto e escrever no terminal:
-  ``node ../desafios/desafioOne/desafioOne.js`
+  ``node ../desafios/desafioOne/desafioOne.js``
