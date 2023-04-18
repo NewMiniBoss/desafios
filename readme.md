@@ -36,6 +36,6 @@
 
 - HTML
 - Javascript
-- React
+- React {Components AND Hooks}
 - Node.js
 - Consumo de APIs
