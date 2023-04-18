@@ -9,9 +9,9 @@ Crie um componente React que exiba uma lista de itens de uma API e permita que o
 
 ## Hooks React
 
-`{useState} {useEffects}`
+```{useState, useEffects}```
 
-## exibindo o projeto 🎥
+## Exibindo o projeto 🎥
 
 - direcionar para pasta do projeto e escrever:
   ```node ../desafios/desafioThree/desafioThree.js`
