@@ -14,6 +14,6 @@ function somando(lista) {
     return console.log(total)
 }
 
-somando(listinhaPar)
-somando(listinhaImpar)
-somando(listinhaUnida)
+somando(listinhaPar) // return = 30
+somando(listinhaImpar) // return = 0
+somando(listinhaUnida) // return 30
