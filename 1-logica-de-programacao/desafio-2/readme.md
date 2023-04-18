@@ -9,7 +9,7 @@ Escreva uma função que receba uma lista de números e retorne a soma dos núme
 - existem algumas condições dentro dessa função:
   `ira somar todos numeros pares da lista e exibir no terminal a soma total`
 
-## exibindo o projeto 🎥
+## Exibindo o projeto 🎥
 
-- direcionar para pasta do projeto e escrever:
-  ```node ../desafios/desafioTwo/desafioTwo.js`
+- direcionar para pasta do projeto e escrever no terminal:
+  ```node ../desafios/desafioTwo/desafioTwo.js``

@@ -1,4 +1,4 @@
-## Desafio - 2 🏁
+## Desafio - 3 🏁
 
 Crie um componente React que exiba uma lista de itens de uma API e permita que o usuário filtre os itens por um critério específico (por exemplo, categoria ou preço).
 

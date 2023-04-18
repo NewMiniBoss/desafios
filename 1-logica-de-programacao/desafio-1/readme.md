@@ -12,7 +12,7 @@
 ` se divisivel por 3, ira exibir no terminal Fizz`
 ` se divisivel por 5, ira exibir no terminal Buzz`
 
-## exibindo o projeto 🎥
+## Exibindo o projeto 🎥
 
-- direcionar para pasta do projeto e escrever:
+- direcionar para pasta do projeto e escrever no terminal:
   ``node ../desafios/desafioOne/desafioOne.js`
