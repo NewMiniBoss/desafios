@@ -14,3 +14,4 @@ Crie um componente React que exiba uma lista de itens de uma API e permita que o
 ## Exibindo o projeto 🎥
 
 - copiar código `javascript` e usar como componente React, em seu projeto e estilizar
+- rodar projeto react com `npm start`
