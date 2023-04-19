@@ -15,3 +15,4 @@ Crie um componente React de tabela que exiba dados de uma API e permita que o us
 ## Exibindo o projeto 🎥
 
 - copiar código `javascript` e usar como componente React, em seu projeto e estilizar
+- rodar projeto react com `npm start`

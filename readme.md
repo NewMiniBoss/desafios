@@ -38,4 +38,5 @@
 - Javascript
 - React { Components AND Hooks }
 - Node.js
+- Redux
 - Consumo de APIs

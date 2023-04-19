@@ -13,3 +13,4 @@ Crie um componente React de formulário que permita que o usuário insira dados 
 ## Exibindo o projeto 🎥
 
 - copiar código `javascript` e usar como componente React, em seu projeto e estilizar
+- rodar projeto react com `npm start`
