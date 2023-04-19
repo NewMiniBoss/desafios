@@ -1,23 +1,23 @@
 import { useState, useEffect } from "react"
 
-const Table = () => {
+const Desafio5 = () => {
     const [livros, setLivros] = useState([])
     const [filtro, setFiltro] = useState('menor-preco')
 
     useEffect(() => {
-        async function fetchData() {
+        async function API() {
             const resposta = await fetch('https://guilhermeonrails.github.io/casadocodigo/livros.json')
             const dados = await resposta.json()
             setLivros(dados)
         }
-        fetchData()
+        API()
     }, [])
 
     function filtrando(event) {
         setFiltro(event.target.dataset.filtro);
     }
 
-    function sortedLivros() {
+    function exibirLivro() {
         let lista = [...livros];
         if (filtro === 'menor-preco') {
             lista.sort((a, b) => a.preco - b.preco)
@@ -49,7 +49,7 @@ const Table = () => {
             </thead>
 
             <tbody>
-                {sortedLivros().map((livro) => (
+                {exibirLivro().map((livro) => (
                     <tr key={livro.id}>
                         <td>{livro.preco}</td>
                         <td>{livro.titulo}</td>
@@ -60,4 +60,4 @@ const Table = () => {
     )
 }
 
-export default Table
+export default Desafio5
